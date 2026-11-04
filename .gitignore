@@ -1,0 +1,7 @@
+raw/
+dataset/
+runs/
+*.pt
+!weights/*.pt
+__pycache__/
+.venv/
